@@ -24,7 +24,7 @@ This web application is...
 * [Live Site](https://gcvarela21.github.io/human.resources/)
 * [Project Repository](https://github.com/gcvarela21/human.resources)
 
-![GIF Visual of The Deployed Web Application](https://github.com/gcvarela21/toon.slap/blob/main/image.png?raw=true)
+![GIF Visual of The Deployed Web Application]()
 
 ______________________________________________________________________________
 
