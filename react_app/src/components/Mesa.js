@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./Mesa.css"
 const Mesa = (props) => (
     <tbody>
       <tr>
