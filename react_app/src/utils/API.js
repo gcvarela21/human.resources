@@ -6,7 +6,7 @@ import axios from "axios";
 export default {
     getStaff: function() {
       return new Promise((resolve, reject) => {
-        axios.get("https://randomuser.me/api/?results=15").then((res) => {
+        axios.get("https://randomuser.me/api/?results=30").then((res) => {
           const staff = res.data.results;
           const results = staff.map((employee) => {
             return {
